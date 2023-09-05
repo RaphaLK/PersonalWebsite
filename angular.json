@@ -54,6 +54,7 @@
               "src/assets"
             ],
             "styles": [
+              "../PersonalWebsite/node_modules/bulma/css/bulma.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -105,5 +106,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "5f658fad-ee4e-4836-ba24-bc4824da7ae5"
   }
 }
